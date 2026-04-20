@@ -1,0 +1,10 @@
+What is Java?|Programming Language,Operating System,Database,Web Browser|1
+Which keyword is used to inherit a class?|this,super,extends,implements|3
+Which method is entry point of Java program?|start(),run(),main(),init()|3
+What is the size of int in Java?|2 bytes,4 bytes,8 bytes,Depends on system|2
+Which of these is not a primitive data type?|int,float,String,char|3
+Which keyword is used to create an object?|new,create,make,init|1
+Which concept allows multiple methods with same name?|Inheritance,Encapsulation,Polymorphism,Abstraction|3
+Which access modifier is the most restrictive?|public,protected,default,private|4
+What does JVM stand for?|Java Variable Machine,Java Virtual Machine,Just Virtual Method,Java Verified Machine|2
+Which package contains Scanner class?|java.io,java.util,java.lang,java.net|2
