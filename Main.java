@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+
         ArrayList<Question> questions = new ArrayList<>();
         questions.add(new Question(
             "What is the size of int in Java?",
